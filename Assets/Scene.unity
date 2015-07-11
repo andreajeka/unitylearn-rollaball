@@ -142,6 +142,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -247,6 +251,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 11
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -282,7 +290,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 7d24210d80c523a4a987facb862a3291, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -413,6 +421,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 3
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -475,6 +487,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 9
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -537,6 +553,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 10
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -696,6 +716,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 5
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -831,6 +855,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -878,7 +906,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 7d24210d80c523a4a987facb862a3291, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -966,6 +994,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 8
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -1003,7 +1035,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a5b7827c4e506b04a815c078c3b74326, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -1130,6 +1162,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 4
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -1192,6 +1228,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 7
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -1254,6 +1294,10 @@ Prefab:
       propertyPath: m_Name
       value: Pick Up 6
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -1312,6 +1356,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: .49999994
       objectReference: {fileID: 0}
+    - target: {fileID: 2328652, guid: 71935613215c3bd4f88673eb09281425, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d0eb23af17bdef4295187bacbd58779, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 71935613215c3bd4f88673eb09281425, type: 2}
   m_IsPrefabParent: 0
@@ -1355,7 +1403,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 7d24210d80c523a4a987facb862a3291, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -1428,7 +1476,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 7d24210d80c523a4a987facb862a3291, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
